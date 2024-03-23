@@ -30,4 +30,4 @@ Usage of the Synce bot may be terminated due to non-compliance with usage or ser
 
 For any questions, complaints, or support requests, you can get assistance from the Synce Support Server.
 
-Synce Support Server: https://discord.gg/synce
+**Synce Community:** `https://discord.gg/synce`
