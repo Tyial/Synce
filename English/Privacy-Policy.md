@@ -16,4 +16,4 @@ Please read this privacy policy carefully, and if you have any questions or conc
 - **Contact:** `For any privacy or security concerns or questions related to the Synce Bot, please reach out to us through the Synce Community.`
 
 **Please read this privacy policy carefully, and if you have any questions or concerns, don't hesitate to contact us.**
-**Synce Community:** `https://discord.gg/synce`
+- **Synce Community:** `https://discord.gg/synce`
