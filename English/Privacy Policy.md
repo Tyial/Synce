@@ -27,6 +27,6 @@ This privacy policy may be updated in the event of Synce Bot's development or ch
 
 For any privacy or security concerns or questions related to the Synce Bot, please reach out to us through the Synce Support Server.
 
-Synce Support Server: https://discord.gg/synce
+**Synce Community:** `https://discord.gg/synce`
 
 Please read this privacy policy carefully, and if you have any questions or concerns, don't hesitate to contact us.
